@@ -2,6 +2,7 @@
 using namespace std;
 
 void merge(int* arr,int start,int end){
+//	cout<<"hello"<<endl;
 	//we need to merge the 2 sorted arrays
 	//arr actually has been sorted till start to mid and also form mid to end, now we need to combine these two
 	
