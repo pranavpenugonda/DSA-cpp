@@ -18,7 +18,7 @@ int partition(int* arr,int start,int end){
 	
 	//simply swap the start element and the correct index element
 	
-	swap(arr[start],arr[correct_index]);
+	swap(arr[start],arr[correct_index]);	
 	
 	//now after we have placed this element int its correct position, we need to make sure that this is actually at its actual position
 	
